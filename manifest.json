@@ -14,5 +14,16 @@
     "category": "Developer Tools",
     "description": "Parse, validate, and beautify complex JSON objects instantly with clean formatting.",
     "scriptUrl": "https://raw.githubusercontent.com/himalgarrobbiepro-tech/OchiGramTestVBN/main/extensions/json-formatter.js"
-  }
+  },
+  {
+    "id": "docs",
+    "title": "Docs",
+    "icon": "file-text",
+    "category": "Developer Tools",
+    "description": "Parse, validate, and beautify complex JSON objects instantly with clean formatting.",
+    "scriptUrl": "https://raw.githubusercontent.com/himalgarrobbiepro-tech/OchiGramTestVBN/refs/heads/main/extensions/docs.js"
+  },
 ]
+
+
+
