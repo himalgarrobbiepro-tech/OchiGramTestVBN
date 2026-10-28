@@ -21,7 +21,7 @@
     "icon": "file-text",
     "category": "Text & Writing",,
     "description": "Create, format, and manage text documents with templates.",
-    "scriptUrl": "./extensions/docs.js"
+    "scriptUrl": "https://raw.githubusercontent.com/himalgarrobbiepro-tech/OchiGramTestVBN/refs/heads/main/extensions/docs.js"
   }
 ]
 
