@@ -5,7 +5,7 @@
     "icon": "type",
     "category": "Writing & Text",
     "description": "Real-time word, character, and sentence analytics engine for rapid writing and editing.",
-    "scriptUrl": "extensions/word-counter.js"
+    "scriptUrl": "https://raw.githubusercontent.com/himalgarrobbiepro-tech/OchiGramTestVBN/main/extensions/word-counter.js"
   },
   {
     "id": "json-formatter",
@@ -13,6 +13,6 @@
     "icon": "file-code",
     "category": "Developer Tools",
     "description": "Parse, validate, and beautify complex JSON objects instantly with clean formatting.",
-    "scriptUrl": "extensions/json-formatter.js"
+    "scriptUrl": "https://raw.githubusercontent.com/himalgarrobbiepro-tech/OchiGramTestVBN/main/extensions/json-formatter.js"
   }
 ]
