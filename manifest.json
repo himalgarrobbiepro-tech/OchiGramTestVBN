@@ -1,0 +1,18 @@
+[
+  {
+    "id": "word-counter",
+    "title": "Word Counter",
+    "icon": "type",
+    "category": "Writing & Text",
+    "description": "Real-time word, character, and sentence analytics engine for rapid writing and editing.",
+    "scriptUrl": "extensions/word-counter.js"
+  },
+  {
+    "id": "json-formatter",
+    "title": "JSON Formatter",
+    "icon": "file-code",
+    "category": "Developer Tools",
+    "description": "Parse, validate, and beautify complex JSON objects instantly with clean formatting.",
+    "scriptUrl": "extensions/json-formatter.js"
+  }
+]
