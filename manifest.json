@@ -19,9 +19,7 @@
     "id": "docs",
     "title": "Docs",
     "icon": "file-text",
-    "category": "Text & Writing",
-    "size": "25 KB",
-    "version": "1.0.0",
+    "category": "Text & Writing",,
     "description": "Create, format, and manage text documents with templates.",
     "scriptUrl": "./extensions/docs.js"
   }
